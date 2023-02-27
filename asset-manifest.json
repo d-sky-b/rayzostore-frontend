@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/rayzostore-frontend/static/css/main.71b2fbc6.chunk.css",
-    "main.js": "/rayzostore-frontend/static/js/main.e9b73279.chunk.js",
-    "main.js.map": "/rayzostore-frontend/static/js/main.e9b73279.chunk.js.map",
+    "main.js": "/rayzostore-frontend/static/js/main.b93963b0.chunk.js",
+    "main.js.map": "/rayzostore-frontend/static/js/main.b93963b0.chunk.js.map",
     "runtime-main.js": "/rayzostore-frontend/static/js/runtime-main.1a87a5c6.js",
     "runtime-main.js.map": "/rayzostore-frontend/static/js/runtime-main.1a87a5c6.js.map",
     "static/js/2.37d9df5d.chunk.js": "/rayzostore-frontend/static/js/2.37d9df5d.chunk.js",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.1a87a5c6.js",
     "static/js/2.37d9df5d.chunk.js",
     "static/css/main.71b2fbc6.chunk.css",
-    "static/js/main.e9b73279.chunk.js"
+    "static/js/main.b93963b0.chunk.js"
   ]
 }
